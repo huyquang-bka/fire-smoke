@@ -16,7 +16,7 @@ If you find this dataset useful and would like to support my work, you can
 make a payment through [insert payment method]. Your contribution will 
 help me maintain and improve this dataset.
 
-[Insert payment method link or instructions]
+[https://www.paypal.com/paypalme/huywang99]
 
 Thank you for your support!
 
