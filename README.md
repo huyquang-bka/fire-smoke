@@ -1,8 +1,7 @@
 # About Me
 
 Hello, I'm Huy Quang, the creator of this repository. This repository
-contains a dataset related to fire and smoke detection. Demo dataset here:
-https://example.com/
+contains a dataset related to fire and smoke detection. Demo model from this dataset [here](https://youtu.be/BP7G_zsJhYc)
 
 ## Dataset Information
 
