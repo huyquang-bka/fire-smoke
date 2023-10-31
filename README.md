@@ -1,10 +1,11 @@
-# D-Fire: An Image Dataset for Fire and Smoke Detection
+# Fire-Smoke-Detection: An Image Dataset for Fire and Smoke Detection
 
-**Authors:** Researchers from Gaia, solutions on demand (GAIA)
+**Authors:** Nguyen Huy Quang
 
 ## About
 
-D-Fire is an image dataset of fire and smoke occurrences designed for machine learning and object detection algorithms, containing more than 21,000 images.
+Fire-Smoke-Detection is an image dataset of fire and smoke occurrences designed for machine learning and object detection algorithms, containing more than
+100.000 images.
 
 - **Number of Images by Category:**
 
@@ -18,9 +19,13 @@ D-Fire is an image dataset of fire and smoke occurrences designed for machine le
   - Fire: 14,692 bounding boxes
   - Smoke: 11,865 bounding boxes
 
-All images were annotated in the YOLO format with normalized coordinates between 0 and 1. We also provide the `yolo2pixel` function to convert coordinates from YOLO format to pixel coordinates.
+All images were annotated in the YOLOv5 format with normalized coordinates between 0 and 1.
 
-## Examples
+## Demo
+
+Demo video detection fire and smoke in real time with YOLOv5 from this dataset.
+
+[![Watch the video](https://www.youtube.com/watch?v=BP7G_zsJhYc&feature=youtu.be)]
 
 ### Download
 
