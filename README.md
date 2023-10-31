@@ -25,7 +25,7 @@ All images were annotated in the YOLOv5 format with normalized coordinates betwe
 
 Demo video detection fire and smoke in real time with YOLOv5 from this dataset.
 
-[![Watch the video](https://www.youtube.com/watch?v=BP7G_zsJhYc&feature=youtu.be)]
+[Watch the video](https://www.youtube.com/watch?v=BP7G_zsJhYc&feature=youtu.be)
 
 ### Download
 
