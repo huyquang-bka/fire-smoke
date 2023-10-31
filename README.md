@@ -27,6 +27,6 @@ All images were annotated in the YOLOv5 format with normalized coordinates betwe
 
 ### Download
 
-- [D-Fire dataset (images and labels)](./demo-dataset)
+- [Fire-smoke small dataset (images and labels)](./demo-dataset)
 - Training, validation, and test sets.
 - Some surveillance videos.
