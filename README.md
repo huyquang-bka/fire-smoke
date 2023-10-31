@@ -19,3 +19,7 @@ If you find this dataset useful and would like to support my work, you can make 
 Thank you for your support!
 
 ## Contact me
+
+If you have any questions or inquiries, feel free to reach out to me via email:
+
+- Gmail: [quang.nh6299@gmail.com]
