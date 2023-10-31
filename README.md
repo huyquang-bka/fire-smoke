@@ -25,7 +25,7 @@ All images were annotated in the YOLOv5 format with normalized coordinates betwe
 
 [Demo video](https://www.youtube.com/watch?v=BP7G_zsJhYc&feature=youtu.be) detection fire and smoke in real time with YOLOv5 from this dataset.
 
-### Download
+### Demo dataset
 
 - [Fire-smoke small dataset (images and labels)](./demo-dataset)
 - Training, validation, and test sets.
