@@ -22,4 +22,4 @@ Thank you for your support!
 
 If you have any questions or inquiries, feel free to reach out to me via email:
 
-- Gmail: [quang.nh6299@gmail.com](mailto:quang.nh6299@gmail.com)
+- Gmail: [huyquangbka@gmail.com](mailto:huyquangbka@gmail.com)
