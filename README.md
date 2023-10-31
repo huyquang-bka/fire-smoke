@@ -1,25 +1,42 @@
-# About Me
+# D-Fire: An Image Dataset for Fire and Smoke Detection
 
-Hello, I'm Huy Quang, the creator of this repository. This repository
-contains a dataset related to fire and smoke detection. Demo model from this dataset [here](https://youtu.be/BP7G_zsJhYc)
+**Authors:** Researchers from Gaia, solutions on demand (GAIA)
 
-## Dataset Information
+## About
 
-The dataset included in this repository provides [add a brief description
-of the dataset]. It consists of [mention the number of samples, data
-format, etc.]. The dataset is intended for [describe the purpose or
-potential applications of the dataset].
+D-Fire is an image dataset of fire and smoke occurrences designed for machine learning and object detection algorithms, containing more than 21,000 images.
 
-## Payment Method
+- **Number of Images by Category:**
 
-If you find this dataset useful and would like to support my work, you can make a payment through the following payment methods by clicking to the logo:
+  - Only fire: 1,164 images
+  - Only smoke: 5,867 images
+  - Fire and smoke: 4,658 images
+  - None: 9,838 images
 
-- <a href="https://www.paypal.com/paypalme/huywang99"><img src="./logo/paypal.png" alt="PayPal" width="100"></a>
+- **Number of Bounding Boxes by Class:**
 
-Thank you for your support!
+  - Fire: 14,692 bounding boxes
+  - Smoke: 11,865 bounding boxes
 
-## Contact me
+All images were annotated in the YOLO format with normalized coordinates between 0 and 1. We also provide the `yolo2pixel` function to convert coordinates from YOLO format to pixel coordinates.
 
-If you have any questions or inquiries, feel free to reach out to me via email:
+## Examples
 
-- Gmail: [huyquangbka@gmail.com](mailto:huyquangbka@gmail.com)
+### Download
+
+- [D-Fire dataset (images and labels)](link_to_dataset)
+- Training, validation, and test sets.
+- Some surveillance videos.
+- Some models trained with the D-Fire dataset.
+
+For more surveillance videos, request your registration on our environmental monitoring website "Apaga o Fogo!" (Put out the Fire!).
+
+## Citation
+
+Please cite the following paper if you use our image database:
+
+**Pedro Vinícius Almeida Borges de Venâncio, Adriano Chaves Lisboa, Adriano Vilela Barbosa:** An automatic fire detection system based on deep convolutional neural networks for low-power, resource-constrained devices. In: Neural Computing and Applications, 2022.
+
+If you use our surveillance videos, please cite the following paper:
+
+**Pedro Vinícius Almeida Borges de Venâncio, Roger Júnio Campos, Tamires Martins Rezende, Adriano Chaves Lisboa, Adriano Vilela Barbosa:** A hybrid method for fire detection based on spatial and temporal patterns. In: Neural Computing and Applications, 2023.
