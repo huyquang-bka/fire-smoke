@@ -5,7 +5,7 @@
 ## About
 
 Fire-Smoke-Detection is an image dataset of fire and smoke occurrences designed for machine learning and object detection algorithms, containing more than
-100,000 images.
+20,000 images.
 
 - **Number of Images by Category:**
 
