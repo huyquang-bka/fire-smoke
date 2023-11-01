@@ -1,6 +1,6 @@
 # Fire-Smoke-Detection: An Image Dataset for Fire and Smoke Detection
 
-**Authors:** Bkaitech Team
+## Authors: **Bkaitech Team**
 
 ## About
 
