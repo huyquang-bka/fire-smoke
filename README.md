@@ -27,12 +27,12 @@ All images were annotated in the YOLOv5 format with normalized coordinates betwe
 
 [Demo video on websites](https://youtu.be/e_Qedv69d1k) detection fire and smoke in real time with YOLOv5 from this dataset and post event on web.
 
-### Demo dataset
+## Demo dataset
 
 - [Fire-smoke small dataset (images and labels)](./demo-dataset)
 - Training, validation, and test sets.
 - Some surveillance videos.
 
-### Contact
+## Contact
 
 When you deal with fire smoke detection problem, the more data you train, the better your model will be. If you want to get more data, please contact us at [info@bkaitech.com](mailto:info@bkaitech.com).
