@@ -5,19 +5,19 @@
 ## About
 
 Fire-Smoke-Detection is an image dataset of fire and smoke occurrences designed for machine learning and object detection algorithms, containing more than
-20,000 images.
+100,000 images.
 
 - **Number of Images by Category:**
 
-  - Only fire: 1,985 images
-  - Only smoke: 14,614 images
-  - Fire and smoke: 3,331 images
-  - None: 13,342 images
+  - Only fire: 11,372 images
+  - Only smoke: 23,336 images
+  - Fire and smoke: 20,140 images
+  - Negative: 39,117 images
 
 - **Number of Bounding Boxes by Class:**
 
-  - Fire: 12,921 bounding boxes
-  - Smoke: 19,228 bounding boxes
+  - Fire: 71,292 bounding boxes
+  - Smoke: 53,010 bounding boxes
 
 All images were annotated in the YOLOv5 format with normalized coordinates between 0 and 1.
 
