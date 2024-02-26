@@ -35,4 +35,6 @@ All images were annotated in the YOLOv5 format with normalized coordinates betwe
 
 ## Contact
 
-When you deal with fire smoke detection problem, the more data you train, the better your model will be. If you want to get more data, please contact us at [info@bkaitech.com](mailto:info@bkaitech.com).
+When you deal with fire smoke detection problem, the more data you train, 
+the better your model will be. If you want to get more data, please 
+contact us at [quang.nh6299@gmail.com](quang.nh6299@gmail.com).
